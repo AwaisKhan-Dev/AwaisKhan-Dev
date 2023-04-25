@@ -1,3 +1,4 @@
+![logo](https://github.com/AwaisKhan-Dev/AwaisKhan-Dev/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Awais Khan</h1>
 <h3 align="center">Final Year Student of Software Engineering.</h3>
 
