@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awaiskhan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="awaiskhan-dev" /> </p>
 
-- 🌱 I’m currently learning **Django, Python, Javascript.**
+- 🌱 I’m currently learning **React, Python, Javascript.**
 
-- 💬 Ask me about **Django, Python, Javascript.**
+- 💬 Ask me about **React, Python, Javascript.**
 
 - 📫 How to reach me **iamawaiskhanofficial@gmail.com**
 
